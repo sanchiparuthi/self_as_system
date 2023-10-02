@@ -1,0 +1,29 @@
+body{
+  background-color: rgb(21, 41, 24);
+}
+
+.title1{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+    display: flex;
+    text-align: center;
+    align-items: center;
+
+}
+a {
+    color: rgb(188, 169, 153);
+    text-decoration: none;
+  }
+
+a:hover {
+   color: rgb(222, 20, 148);
+  }
+
+
+/* a:visited {
+  color: rgb(65, 66, 53);
+} */
+
+
+/* 1. cant center stupid div, 2. link color cant change 3. buttons not centered properly*/
+
